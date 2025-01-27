@@ -18,7 +18,7 @@ void setup() {
     while (1);
   }
   Serial.println("\nESTAMOS EN VIVO CON RITSA");
-  Serial.println("Para registrar una nueva huella, presiona 'n' en el monitor serial.");
+  Serial.println("SUBSCRIBETE");
 }
 
 void loop() {
