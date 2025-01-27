@@ -17,7 +17,7 @@ void setup() {
     Serial.println("Error al conectar con el lector de huellas.");
     while (1);
   }
-  Serial.println("\nEl lector de huella está activo y esperando huellas.");
+  Serial.println("\nESTAMOS EN VIVO CON RITSA");
   Serial.println("Para registrar una nueva huella, presiona 'n' en el monitor serial.");
 }
 
